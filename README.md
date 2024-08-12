@@ -26,10 +26,21 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+![My Skills](https://skillicons.dev/icons?i=js,php,typescript,java)
+
+### Database:
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
+   
+### Backend:
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,nestjs)](https://skillicons.dev)
+
+### Frontend:
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,react,nextjs)](https://skillicons.dev)
+   
+### Tools:
+[![My Skills](https://skillicons.dev/icons?i=figma,postman)](https://skillicons.dev)
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
-
-
 
 
 
@@ -51,9 +62,6 @@
 
 
 
-
-
- ![GitHub stats](https://raw.githubusercontent.com/id1945/id1945/master/profile-3d-contrib/profile-night-green.svg)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 

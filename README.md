@@ -43,6 +43,34 @@
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center">Intercollegiate Contest Web Application</h3>
+  <div align="center">
+    <a href="https://github.com/Anthony6887/Evento_Cultural" target="_blank"><img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/af08da65-bd1a-4faa-aede-778e06299fa7" width="400" alt="Evento_Cultural"></a>
+    <p>
+      <a href="https://github.com/Anthony6887/Evento_Cultural" target="_blank">
+        <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+  <p>Development of a <strong>web application for the interface of a Kahoot!</strong>: this project involves the creation of an interface for the web application of several minigames. They include functionalities and design elements.</p>  
+  </div>                
+</td>
+ <td width="50%">
+  <h3 align="center">SimDrive</h3>
+  <div align="center">
+    <a href="https://github.com/ChristianCLop/simdrive-frontend.git" target="_blank"><img src="https://github.com/ChristianCLop/simdrive-frontend/blob/main/app/favicon.ico" width="400" alt="Student Management"></a>
+    <p>
+      <a href="https://github.com/ChristianCLop/simdrive-frontend.git" target="_blank">
+        <img src="https://img.shields.io/badge/Github-047495?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p><strong>SimDrive</strong> is a didactic immersive learning experience with traffic rules in virtual worlds.</p>
+  </div>                
+</td>
+</table>
+
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
@@ -55,9 +83,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=EnriqueOrtiz2001&show_icons=true&bg_color=0D1017&border_radius=5&text_color=E8EDF3&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=415" alt="GitHub Stats"/>
   </a>
 
-   <a href="https://github.com/EnriqueOrtiz2001">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EnriqueOrtiz2001&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&border_radius=5&bg_color=0D1017&text_color=E8EDF3" alt="Top Languages"/>
-  </a>
+  
 </div>
 
 
